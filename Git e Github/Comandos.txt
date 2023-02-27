@@ -1,0 +1,5 @@
+git clone - Clona o repositório criado no github para a máquina
+git status - Mostra o status/ se tem algum commit em espera
+git add . - Adiciona todas as alterações
+git commit -m "na aspas coloca comentário sobre o que foi alterado)
+git push origin master - envia todas as alterações para o Git Hub
