@@ -4,3 +4,12 @@ Clica na esquerda na pastinha src > ctrl+n > Class > Next > Criar package e colo
 marcar opção de public static void main > finish
 escreve: Sysout (crtl+espaço) - esse atalho faz o preenchimento automático
 Vai no topo clica em Run > Run as java application > always save... (essa última opção vai fazer com que salve o código automáticmente quando for rodar)
+
+
+
+
+Comandos que podem ajudar ao usar a IDE:
+ctrl + m - expande a tela
+ctrl + 3 - abre a lupa - ali dá para digitar generate constructor using fields, getters and setters, tostring...
+ctrl + shift + f - Identa o código
+ctlr + shift + o - realiza os imports
