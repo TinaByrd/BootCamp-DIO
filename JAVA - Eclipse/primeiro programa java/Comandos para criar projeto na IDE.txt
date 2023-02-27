@@ -1,0 +1,6 @@
+Ícone de lupa > java perspective
+Create java project > colocar nome > desmarcar opção de criar módulo > Finish
+Clica na esquerda na pastinha src > ctrl+n > Class > Next > Criar package e colocar nome para a classe (sempre maiúsculo) >
+marcar opção de public static void main > finish
+escreve: Sysout (crtl+espaço) - esse atalho faz o preenchimento automático
+Vai no topo clica em Run > Run as java application > always save... (essa última opção vai fazer com que salve o código automáticmente quando for rodar)
