@@ -1,0 +1,19 @@
+Atalhos da IDE IntelliJ
+
+Para criar um proojeto:
+file > new project > Java > Create
+src > alt+insert > package > new class
+
+Para chamar o método main bastnat digitar main, e o System.out.println() basta escrever sout.
+
+ctrl+shift+f10 - Inicia a aplicação
+
+Alt + insert dentro do código pode aparecer as opções de gerar (como get e set)
+Outra opção é clicar com o botão direito > generate > getters and setters
+
+ctrl + shift + / -comenta o bloco
+ctrl + / -comenta linha por linha
+
+alt + enter - import
+
+ctrl + y - deleta a linha
