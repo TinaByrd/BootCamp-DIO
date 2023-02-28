@@ -10,8 +10,10 @@ Os principais comandos de Git e Gthub para não esquecer
 
 Primeiros passos dentro da IDE com documento ensinando a criar o projeto
 
-
-
 ## Java - IntelliJ
 
 Primeiros passos dentro da IDE com documento ensinando a criar o projeto
+
+## Aprendendo a sintaxe
+
+Códigos com o objetivo de aprender a sintaxe java
