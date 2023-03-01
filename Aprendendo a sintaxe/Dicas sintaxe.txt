@@ -1,0 +1,11 @@
+DICAS DE SINTAXE
+
+- Todo arquivo .java deve começar com letra MAIÚSCULA;
+- Variável: letra minúscula e se for duas palavras a segunda começa com maiúscula.
+ Exemplo: data e dataHoje;
+- Final: variável que não pode ser alterada;
+- Não iniciar varável com número;
+- Não usar palavra reservadas;
+- Não pode ter espaço no nome da variável;
+- Métodos: Usar o infinitivo.
+
